@@ -1,2 +1,2 @@
 quick test demo
-modify
+modify remote conflict
