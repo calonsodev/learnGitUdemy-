@@ -1,1 +1,2 @@
-adding in remote
+adding in remotea
+i am in the main branch and I don't commit this. I stage it! 
