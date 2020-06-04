@@ -1,2 +1,2 @@
 change in remote/master
-s
+CHANGE TO REBASE
